@@ -1,6 +1,6 @@
 # Rock Paper Scissors Image Classification
 
-This project implements an image classification model using TensorFlow to recognize images of rock, paper, and scissor with convolutional neural networks (CNN) and applies image augmentation techniques to improve model generalization.
+This project implements an image classification model using TensorFlow to recognize images of rock, paper, and scissor with convolutional neural networks (CNN) and applies image augmentation techniques to improve model generalization and achieves 0.9916 accuracy.
 
 ## Dataset
 The dataset used for this project is sourced from [Dicoding Academy's rockpaperscissors dataset](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip), which contains images categorized into three classes: rock, paper, and scissors.
